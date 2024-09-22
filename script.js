@@ -10,7 +10,7 @@ particlesJS('particles-js',
             }
         },
         "color": {
-            "value": "#61dafb" // Particle color
+            "value": "#a372ff" // Purple particle color
         },
         "shape": {
             "type": "circle", // Particle shape
@@ -42,7 +42,7 @@ particlesJS('particles-js',
         "line_linked": {
             "enable": true,
             "distance": 150, // Distance between particles
-            "color": "#61dafb", // Line color
+            "color": "#a372ff", // Purple line color
             "opacity": 0.4,
             "width": 1
         },
